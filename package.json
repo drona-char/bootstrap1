@@ -1,4 +1,18 @@
 {
+<<<<<<< HEAD
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "hiiii this is for git and node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "heloooo"
+=======
   "name": "testing-it",
   "version": "1.0.0",
   "description": "",
@@ -9,10 +23,14 @@
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
     "popper.js": "^1.12.9"
+>>>>>>> 19bdd06c506277c6220c7eb0953b831ca2a862b5
   },
   "devDependencies": {
     "lite-server": "^2.5.4"
   },
+<<<<<<< HEAD
+  "dependencies": {}
+=======
   "scripts": {
     "start":"npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,4 +38,5 @@
   },
   "author": "",
   "license": "ISC"
+>>>>>>> 19bdd06c506277c6220c7eb0953b831ca2a862b5
 }
